@@ -1,5 +1,5 @@
 # Road Accidents Analysis
-This Project seeks to uncover insights and patterns in the occurence of casualties caused by road accidents and by a variety of vehicle types, accident locations as well as the seasonality of these accident occurences.
+This Project is an Exploratory Analysis which seeks to uncover insights and patterns in the occurence of casualties caused by road accidents. It sheds light on a variety of vehicle types, accident locations as well as the seasonality of these accident occurences.
 
 ![Case 1 pix](https://www.lrfoundation.org.uk/sites/default/files/styles/16_9_media_sm/public/2024-04/lrf-worldriskpoll-2021-road-accident.jpg?h=21386b34&itok=D9r3gh9H?fit=scale)
 
@@ -19,6 +19,12 @@ A total of 417,883 casualties was recorded, which was then grouped into three ba
 
 ### 🛣️ Casualty Classification by Road Type
 - Most accidents occurred on Single carriageways as anticipated. However, Dual carriageways also showed high amount of casualty records as well as Roundabouts.
+
+## 💥 Dashboard
+This shows the single-page dashboard at a glance.
+
+![Accident_data_dash](https://github.com/user-attachments/assets/f3dd5d02-05b5-4e9f-973c-7b0273c82425)
+
 
 
 ## Recommendations
